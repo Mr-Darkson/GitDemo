@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         int a = 1, b = 2;
         System.out.println(a + "+" + b + " = " + (a+b));
+        System.out.println("FeatureY");
     }
 }
